@@ -1,0 +1,195 @@
+[
+    {
+      "boardWidth": 3,
+      "boardHeight": 4,
+      "currLevel": 1,
+      "currentPhase": "Player_Moving",
+      "timer": "Infinity",
+      "id": "gameData"
+    },
+    {
+      "entityType": "Open",
+      "objKey": "..",
+      "id": "..3",
+      "x": 0,
+      "y": 2,
+      "sight_status": "visible"
+    },
+    {
+      "entityType": "Shrine",
+      "objKey": "K1",
+      "id": "K11",
+      "character": "C11",
+      "reached": true,
+      "x": 0,
+      "y": 2,
+      "sight_status": "visible"
+    },
+    {
+      "entityType": "Wall",
+      "objKey": "##",
+      "id": "##1",
+      "x": 0,
+      "y": 3,
+      "sight_status": "visible"
+    },
+    {
+      "entityType": "Open",
+      "objKey": "..",
+      "id": "..6",
+      "x": 1,
+      "y": 2,
+      "sight_status": "visible"
+    },
+    {
+      "entityType": "Character",
+      "objKey": "C3",
+      "id": "C31",
+      "sightRange": 2,
+      "monsterDie": "D8+0",
+      "trapDie": "D6+0",
+      "stoneDie": "D6+0",
+      "ready": true,
+      "dead": false,
+      "lives": 3,
+      "health": 2,
+      "respawnCounter": 0,
+      "actionPoints": 1,
+      "actionPlan": [],
+      "pinCursorX": 1,
+      "pinCursorY": 2,
+      "x": 1,
+      "y": 2,
+      "sight_status": "visible"
+    },
+    {
+      "entityType": "Shrine",
+      "objKey": "K2",
+      "id": "K21",
+      "character": "C21",
+      "reached": true,
+      "x": 1,
+      "y": 2,
+      "sight_status": "visible"
+    },
+    {
+      "entityType": "Goal",
+      "objKey": "**",
+      "subGoalCount": 2,
+      "id": "**1",
+      "x": 1,
+      "y": 3,
+      "sight_status": "visible"
+    },
+    {
+      "entityType": "Character",
+      "objKey": "C1",
+      "id": "C11",
+      "sightRange": 1,
+      "monsterDie": "D6+0",
+      "trapDie": "D8+0",
+      "stoneDie": "D4+0",
+      "ready": true,
+      "dead": false,
+      "lives": 3,
+      "x": 2,
+      "y": 1,
+      "sight_status": "visible"
+    },
+    {
+      "entityType": "Open",
+      "objKey": "..",
+      "id": "..9",
+      "x": 2,
+      "y": 2,
+      "sight_status": "visible"
+    },
+    {
+      "entityType": "Character",
+      "objKey": "C1",
+      "id": "C11",
+      "sightRange": 1,
+      "monsterDie": "D6+0",
+      "trapDie": "D8+0",
+      "stoneDie": "D4+0",
+      "ready": true,
+      "dead": false,
+      "lives": 3,
+      "x": 2,
+      "y": 1,
+      "sight_status": "visible"
+    },
+    {
+      "entityType": "Character",
+      "objKey": "C2",
+      "id": "C21",
+      "sightRange": 3,
+      "monsterDie": "D6+0",
+      "trapDie": "D4+0",
+      "stoneDie": "D8+0",
+      "ready": true,
+      "dead": false,
+      "lives": 3,
+      "x": 2,
+      "y": 2,
+      "sight_status": "visible"
+    },
+    {
+      "entityType": "Shrine",
+      "objKey": "K3",
+      "id": "K31",
+      "character": "C31",
+      "reached": false,
+      "x": 2,
+      "y": 2,
+      "sight_status": "visible"
+    },
+    {
+      "entityType": "Wall",
+      "objKey": "##",
+      "id": "##2",
+      "x": 2,
+      "y": 3,
+      "sight_status": "visible"
+    },
+    {
+      "id": "UE0",
+      "entityType": "Cell",
+      "objKey": "UE",
+      "sight_status": "unexplored",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "id": "UE1",
+      "entityType": "Cell",
+      "objKey": "UE",
+      "sight_status": "unexplored",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": "UE2",
+      "entityType": "Cell",
+      "objKey": "UE",
+      "sight_status": "unexplored",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "id": "UE3",
+      "entityType": "Cell",
+      "objKey": "UE",
+      "sight_status": "unexplored",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "id": "UE4",
+      "entityType": "Cell",
+      "objKey": "UE",
+      "sight_status": "unexplored",
+      "x": 1,
+      "y": 0
+    }
+  ]
